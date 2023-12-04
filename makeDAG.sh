@@ -1,6 +1,4 @@
-#specify the input file
-#format is:
-#species_id	path_to_proteins	path_to_cds
+
 #path to makeDAG, dont change this
 makeDAG=/mnt/bigdata/linuxhome/jwolters/pipelines/hybpiper/v1/makeDAG.py
 
