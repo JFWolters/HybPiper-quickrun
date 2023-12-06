@@ -2,6 +2,8 @@
 Run HybPiper parallelized on scarcity
 An alternate single run option is also provided.
 
+See here for a hybpiper tutorial and more information on the tool: https://github.com/mossmatters/HybPiper/wiki/Tutorial
+
 ## Single run
 Copy run_hybpiper.sh into the desired run folder, modify the input and targets file paths, and run with bash.
 Only recommended for small numbers of read sets, for large datasets use the pipeline version below.
